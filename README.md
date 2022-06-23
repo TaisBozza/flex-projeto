@@ -1,3 +1,4 @@
 # Flex-projeto
 
-Projeto flexbox Dio/Santander 
+Contrução do site em HTML/CSS
+- Desafio  projeto flexbox Dio/Santander
